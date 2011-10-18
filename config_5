@@ -1,5 +1,5 @@
 tilda_config_version = "0.9.6"
-image = "/home/ebrodeur/Pictures/1920x1080/wallpapers/wallpaper-181751.png"
+#image = "/home/ebrodeur/Pictures/1920x1080/wallpapers/wallpaper-181751.png"
 # command = ""
 font = "Inconsolata Medium 16"
 key = "<Super>6"
