@@ -1,12 +1,12 @@
 tilda_config_version = "0.9.6"
 # image = ""
 command = "sh -c \"TILDA=1 /bin/zsh\""
-font = "Inconsolata Medium 16"
+font = "Consolas 11"
 key = "<Ctrl>F1"
 title = "Tilda"
 background_color = "white"
 # working_dir = ""
-web_browser = "firefox"
+web_browser = "chromium"
 lines = 10000
 max_width = 960
 max_height = 1080
