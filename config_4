@@ -1,8 +1,8 @@
 tilda_config_version = "0.9.6"
 # image = ""
-command = "sh -c \"TILDA=1 /bin/zsh\""
-font = "Consolas 13"
-key = "<Ctrl>F1"
+command = "sh -c \"TILDA=4 /bin/zsh\""
+font = "Consolas 11"
+key = "<Ctrl>F10"
 title = "Tilda"
 background_color = "white"
 # working_dir = ""
@@ -13,7 +13,7 @@ max_height = 1080
 min_width = 1
 min_height = 1
 transparency = 0
-x_pos = 0
+x_pos = 2880
 y_pos = 0
 tab_pos = 0
 backspace_key = 0
